@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.syed.gang"
         version   = "99.999.0">
-    <name>GANGSTERS</name>
+    <name>JqueryDemo</name>
 
     <description>
-        Gangsters
+        JqueryDemo$
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
